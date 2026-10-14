@@ -1,0 +1,4 @@
+- **NetID:** [Charm57]
+- **Major:** [data science]
+- **Favorite CS Topic:** [cs 211]
+- **Topic I Find Challenging / Want to Learn:** [Recursion]
